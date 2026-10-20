@@ -1,0 +1,35 @@
+models/spring-ai-openai/src/main/java/org/springframework/ai/openai/responses/OpenAiResponsesChatOptions.java
+  s_97ea0024280ac2::t_4ef780d6ebddb7 155
+  s_97ea0024280ac2::t_96c4ebc291c845 97
+  s_97ea0024280ac2::t_66e06a5533b88d 234-238
+models/spring-ai-openai/src/main/java/org/springframework/ai/openai/setup/OpenAiSetup.java
+  s_97ea0024280ac2::t_522591e51e8b84 107,136
+  s_97ea0024280ac2::t_eb50d7023c1629 42
+  s_97ea0024280ac2::t_220220f4859015 101,130
+models/spring-ai-openai/src/main/java/org/springframework/ai/openai/AbstractOpenAiOptions.java
+  s_97ea0024280ac2::t_4a3de5967744ac 127
+  s_97ea0024280ac2::t_e97727575d89d8 183-187
+  s_97ea0024280ac2::t_2910c5b876a1c1 97-98,100
+models/spring-ai-openai/src/test/java/org/springframework/ai/openai/chat/OpenAiChatOptionsTests.java
+  s_97ea0024280ac2::t_011c96f3e5be73 518-532
+models/spring-ai-openai/src/main/java/org/springframework/ai/openai/OpenAiChatOptions.java
+  s_97ea0024280ac2::t_6fd6e6de912f2c 326-330
+  s_97ea0024280ac2::t_231f14161936ac 118-119,121
+  s_97ea0024280ac2::t_5375429ec99b00 232
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "73bff6e2fae3a2d0452134947d159e1f22d679ad",
+  "prompts": {},
+  "sessions": {
+    "s_97ea0024280ac2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9b1b5fdb-f4dc-4e01-ab46-74520e27eafe",
+        "model": "glm-5.3"
+      },
+      "human_author": "cgrs5722 <cgrs5722@users.noreply.github.com>"
+    }
+  }
+}
